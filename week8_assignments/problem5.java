@@ -44,5 +44,7 @@ public class Problem5 {
 
             System.out.printf("%s: %s%n", name, renewalDate);
         }
+
+        sc.close();
     }
 }
